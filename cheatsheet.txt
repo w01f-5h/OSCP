@@ -26,5 +26,6 @@ https://github.com/skavngr/rapidscan
 https://github.com/hahwul/WebHackersWeapons
 https://github.com/pry0cc/axiom
 https://github.com/cytopia/pwncat
+https://github.com/The-Art-of-Hacking/h4cker/blob/master/more_tools.md
 
                                             
